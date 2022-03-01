@@ -69,5 +69,21 @@ except:
     print("Please be sure to enter a number value! <<< Custom Message\n")#Error message if one of the values is not a number
 
 ```
+## Screen Prints of Results
 
+![Pickling](/github.com/pme636/ITFnd100-Mod07/tree/main/docs/assets/PythonPickling.png)
+
+
+
+
+## Script Saved
+The script was saved in the week 7 folder along with several screen shots. I placed those into a folder I saved on git hub. 
+
+## Git Hub Pages
+I read thru the provided information for creating the git hub pages and was able to finally create my page with the data from this document. I included the links of the pages I used as a reference and saved the screen prints into a separate folder. It seems to be working also!
+
+
+
+Summary
+Using the provided information from this week’s assignment I was able to create one script to show the example of pickling in Python. In addition, I was also able to create a script for try/except error handling in Python. They do actually work too! 
 
