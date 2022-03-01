@@ -71,7 +71,7 @@ except:
 ```
 ## Screen Prints of Results
 
-![pick](docs/assets/PythonPickling.png)
+![Python Pickling](docs/assets/PythonPickling.png)
 
 
 
