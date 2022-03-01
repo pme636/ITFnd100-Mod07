@@ -71,7 +71,7 @@ except:
 ```
 ## Screen Prints of Results
 
-![Pickling](/github.com/pme636/ITFnd100-Mod07/tree/main/docs/assets/PythonPickling.png)
+![Pickling](docs/assets/PythonPickling.png)
 
 
 
